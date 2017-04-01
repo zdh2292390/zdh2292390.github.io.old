@@ -1,13 +1,48 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Denghui Zhang
+<!-- tagline: Supporting tagline -->
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<div >
+<img class='inset right' title='Denghui Zhang' src='./images/zdh.jpg' alt='Photo of zdh' width='165px' />
+</div>
+<div class='quiet'>
+<!-- Bachelor<br>
+University of Science & Technology Beijing  <br><br> -->
+Master  <br>
+CAS Key Lab of Network Data Science and Technology  <br>
+</div>
+[Institute of Computing Technology](http://www.ict.ac.cn/)  
+[Chinese Academy of Sciences](http://www.cas.cn/)  
+<!-- <a href='http://www.ict.ac.cn/'>Institute of Computing Technology</a><br>
+<a href='http://www.cas.cn/'>Chinese Academy of Sciences</a><br> -->
+<div class='quiet'>
+No.6 Kexueyuan South Road Zhongguancun  <br>
+Haidian District, Beijing, China 100190  <br>
+Email: zhangdenghui@ict.ac.cn<br>
+</div>
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+<div class='section'>
+ <h1 id='bio'>Bio</h1>
+<p>
+  I am a Master student in the CAS Key Lab of Network Data Science and Technology of <a href='http://www.ict.ac.cn/'>Institute of Computing Technology</a>, <a href='http://www.cas.cn/'>Chinese Academy of Sciences</a>, China. My advisers are Prof. <a href='http://www.bigdatalab.ac.cn/~junxu/'>Jun Xu</a>.<br> Prior to joining ICT, I received my bachelor&#8217;s degree in Communication Engineering from <a href='http://www.ustb.edu.cn/index.asp'>University of Science & Technology Beijing</a> in 2015.</p>
+</div>
+<div class='section'>
+<h1 id='research'>Research <br> Interests</h1>
+<ul>
+<li>
+  Machine Learning, Representation Learning
+</li>
+<li>
+  Knowledge Graph Embedding</li>
+</ul>
+</div>
+
+<!-- Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html) -->
+
+<!-- Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 ## Update Author Attributes
 
@@ -41,6 +76,6 @@ Here's a sample "posts list".
 ## To-Do
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+We need to clean up the themes, make theme usage guides with theme-specific markup examples. -->
 
 

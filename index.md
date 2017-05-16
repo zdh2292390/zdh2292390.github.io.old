@@ -26,8 +26,8 @@ Email: zhangdenghui@ict.ac.cn<br>
 
 <div class='section'>
  <h1 id='bio'>Bio</h1>
-<p>
-  I am a Master student in the CAS Key Lab of Network Data Science and Technology of <a href='http://www.ict.ac.cn/'>Institute of Computing Technology</a>, <a href='http://www.cas.cn/'>Chinese Academy of Sciences</a>, China. My advisers are Prof. <a href='http://www.bigdatalab.ac.cn/~junxu/'>Jun Xu</a>.<br> Prior to joining ICT, I received my bachelor&#8217;s degree in Communication Engineering from <a href='http://www.ustb.edu.cn/index.asp'>University of Science & Technology Beijing</a> in 2015.</p>
+<p font-size='1em'>
+  I am a Master student in the CAS Key Lab of Network Data Science and Technology of <a href='http://www.ict.ac.cn/'>Institute of Computing Technology</a>, <a href='http://www.cas.cn/'>Chinese Academy of Sciences</a>, China. <br>My advisers is Prof. <a href='http://www.bigdatalab.ac.cn/~junxu/'>Jun Xu</a>.<br> Prior to joining ICT, I received my bachelor&#8217;s degree in Communication Engineering from <a href='http://www.ustb.edu.cn/index.asp'>University of Science & Technology Beijing</a> in 2015.</p>
 </div>
 <div class='section'>
 <h1 id='research'>Research <br> Interests</h1>

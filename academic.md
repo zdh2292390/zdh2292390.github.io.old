@@ -27,35 +27,61 @@ IEEE Transaction on Big Data Special Issue on "Knowledge Graphs: Techniques and 
 </div>
 ## Project
 <div class='section'>
-<h1 id='kb'>Knowledge Graph</h1>
+<h1 id='2017'>2017</h1>
 <ul>
-<!-- <a href='https://github.com/zdh2292390/ParTrans-X'>ParTrans-X: An efficient parallel lib for translating embedding algorithms. </a>
-The main adavantage of our lib is that our algorithms are totally lock-free multithreading, which enables the algorithms to be highly efficient, and we give some theoretical guarantees in our paper.
-Up to now, we implemented the parallel version of TransE, AdagradTransE, and TransH. Named ParTransE, ParAdagradTransE, ParTransH respectively. -->
-<b>A Knowledge Graph Computation Platform for Video Field</b><br>
+
+<b>Knowledge Graph Computation Platform for Video Field</b><br>
 Advisor: Jia Yantao, Wang Yuanzhuo, Institute of Computing Technology, Chinese Academy of Sciences (cooperate with Huawei Inc.)<br>
-This project aims to construct a knowledge graph for videos, including movies, series, carton, etc., without involving too much manual work. Furthermore, the knowledge graph can be enriched and updated automatically from different data source, and supports a plenty of computation modules, such as relation extraction, relation prediction, tag inference, etc.<br>
+This project aims to construct a knowledge graph for videos, including movies, series, carton, etc. Furthermore, the knowledge graph can be enriched automatically from different data source, and supports a plenty of applications such like relation extraction, relation prediction.<br>
 My work 1:
-<li>analyzed the parallel methods, including Hogwild!, DistBelief, etc., for the sake of accelerating the supported computation modules.</li>
-<li>proposed and verified the feasibility of lock free strategy in training knowledge graph embedding in parallel.</li>
-<li>paralleled the computation modules that are based on knowledge graph embedding, including entity alignment, relation extraction and tag inference.</li>
+<li>Analyzed the parallel methods, including Hogwild!, DistBelief, etc., for the sake of accelerating the supported computation modules.</li>
+<li>Proposed and verified the feasibility of lock free strategy in training knowledge graph embedding in parallel.</li>
+<li>Paralleled the computation modules that are based on knowledge graph embedding, including entity alignment, relation extraction and tag inference.</li>
 My work 2:
-<li>proposed to explore the rich information of hierarchical structures in knowledge graph to promote the relation prediction performance. </li>
+<li>Proposed to explore the rich information of hierarchical structures in knowledge graph to promote the relation prediction performance. </li>
 <!-- <li>proved the convergence of the proposed method.</li> -->
-<li>experimented the strategy of integrating hierarchical structures on three data sets, and demonstrate the superiority of proposed method.</li>
+<li>Experimented the strategy of integrating hierarchical structures on three data sets, and demonstrate the superiority of proposed method.</li>
 </ul>
 </div>
 
 <div class='section'>
-<h1 id='bigdata'>BigData</h1>
-
+<h1 id='2016'>2016</h1>
 <ul>
-<b>A Big Data Analysis Platform</b><br>
+<b>Big Data Analysis Platform</b><br>
 Advisor: Lei Cao, Jun Xu, Institute of Computing Technology, Chinese Academy of Sciences<br>
 The project aimed to make a GUI web tool for data scientists to make workflows of all kinds of machine learning and data mining algorithms fast and easily.<br>
 My Work : <!-- <li>Implemented various machine learning and preprocess algorithms in spark. </li> -->
-<li>Implemented GBDT algorithm in spark and optimized it to run faster than MLlib.</li>
+<li>Implemented GBDT algorithm in Spark and optimized it to run faster than MLlib.</li>
 <li>Optimized the IO cost and storage cost of the workflow using parquet.</li>
+</ul>
+
+<ul>
+<b>CCF BDCI Agricultural Products Predict Contest</b><br>
+This contest aimed to predict the future price of certain agricultural products in China, using the history price data. I used GBDT(Gradient Boosting Decision Tree) Model and Random Forest for ensemble, proposed a loss optimal function for the problem and got a great promotion in accuracy.<br>
+My work:
+<li>Feature engineering</li>
+<li>Loss function design</li>
+</ul>
+
+<ul>
+<b>AliBaba Tianchi BigData: CaiNiao Supply Chain Predict Contest</b><br>
+This contest aimed to predict the future sales of certain products in TaoBao, using the history sales data and user behavior data. I used GBDT(Gradient Boosting Decision Tree) Model, analyzed the target cost fucntion, then modified the loss function of the GBDT model and got a great promotion in accuracy.<br>
+My work:
+<li>Feature engineering</li>
+<li>Loss function implementation</li>
+<li>Implemented GBDT algorithm using Java in MapReduce framework to make it run in AliBaba’s bigdata platform ODPS.</li>
+</ul>
+</div>
+
+<div class='section'>
+<h1 id='2014'>2014</h1>
+<ul>
+<b>National Computer Game Championships (Connect Six)</b><br>
+The contest aimed to ask players to play against each other, using their own Connect Six program
+<br>
+My Work :
+<li>Implemented the game tree search algorithm to play Connext Six.</li>
+<li>Optimized the search algorithm.</li>
 </ul>
 </div>
 

@@ -10,12 +10,16 @@ description: ""
 
 2016&emsp; [AliBaba Tianchi BigData Contest](https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.uvYOch&raceId=231530)    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  <b>Rank: 12/2807</b>  
 
-2014 &emsp; National Computer Game Championships (Connext Six)&emsp; <b>First prize</b>
+2014 &emsp; National Computer Game Championships (Connect Six)&emsp; <b>First prize</b>
 
 2013 &emsp; National Internet Of Things Contest &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>Second prize</b>
 
 ## Awards
 
-National Scholarships(Top 2%，2014)
+National Scholarship(Top 2%, 2014)
 
-National Motivational Scholarships(Top5%，2013)
+National Motivational Scholarship(Top5%, 2013)
+
+Excellent Student Award (Top 10%, 2013)
+
+Excellent Student Leader Award (Top 10%, 2013、2014)

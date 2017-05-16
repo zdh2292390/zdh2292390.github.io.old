@@ -34,7 +34,7 @@ The IEEE/WIC/ACM International Conference on Web Intelligence (WI) (Submitted)
 [arXiv:1703.10316](https://arxiv.org/abs/1703.10316)
 
 ## Journal Papers
-[Link Prediction in Knowledge Graphs: A Hierarchy-Constrained Approach.]()  
+[Link Prediction in Knowledge Graphs: A Hierarchy-Constrained Approach.](https://github.com/zdh2292390/zdh2292390.github.io/blob/master/TBD-2017-02-0077_v3.pdf)  
 Li Manling, <b>Zhang Denghui</b>, Jia Yantao, Wang Yuanzhuo, Cheng Xueqi  
 IEEE Transaction on Big Data Special Issue on "Knowledge Graphs: Techniques and Applications" (Submitted)
 

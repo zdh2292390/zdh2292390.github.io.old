@@ -6,18 +6,21 @@ title: Denghui Zhang
 {% include JB/setup %}
 
 <div >
-<img class='inset right' title='Denghui Zhang' src='./images/zdh1.jpg' alt='Photo of zdh' width='165px' />
+<img class='inset right' title='Denghui Zhang' src='./images/zdh2.jpg' alt='Photo of zdh' width='165px' />
 </div>
 <div class='quiet'>
 <!-- Bachelor<br>
 University of Science & Technology Beijing  <br><br> -->
 Master  <br>
-CAS Key Lab of Network Data Science and Technology  <br>
 </div>
+<!-- [CAS Key Lab of Network Data Science and Technology](http://www.bigdatalab.ac.cn/lab/lab/english)  
 [Institute of Computing Technology](http://www.ict.ac.cn/)  
-[Chinese Academy of Sciences](http://www.cas.cn/)  
-<!-- <a href='http://www.ict.ac.cn/'>Institute of Computing Technology</a><br>
-<a href='http://www.cas.cn/'>Chinese Academy of Sciences</a><br> -->
+[Chinese Academy of Sciences](http://www.cas.cn/) -->  
+<div class='zdh'>
+<a href='http://www.bigdatalab.ac.cn/lab/lab/english'>CAS Key Lab of Network Data Science and Technology</a><br>
+<a href='http://www.ict.ac.cn/'>Institute of Computing Technology</a><br>
+<a href='http://www.cas.cn/'>Chinese Academy of Sciences</a><br>
+</div>
 <div class='quiet'>
 No.6 Kexueyuan South Road Zhongguancun  <br>
 Haidian District, Beijing, China 100190  <br>
@@ -36,7 +39,7 @@ Email: zhangdenghui@ict.ac.cn<br>
   Machine Learning, Representation Learning
 </li>
 <li>
-  Knowledge Graph Embedding</li>
+  Knowledge Graph Embedding, Parallel Computing</li>
 </ul>
 </div>
 

@@ -1,10 +1,29 @@
 ---
 layout: page
-title: "Academic"
+title: "Research"
 description: ""
 ---
 {% include JB/setup %}
 
+## Publication
+
+## Conference Papers
+<div class='zdh'>
+<b>Efficient Parallel Translating Embedding For Knowledge Graphs.</b>  <br>
+<b>Zhang Denghui</b>, Li Manling, Jia Yantao, Wang Yuanzhuo  <br>
+The IEEE/WIC/ACM International Conference on Web Intelligence (WI) (Submitted)  <br>
+<!-- [arXiv:1703.10316](https://arxiv.org/abs/1703.10316)   -->
+<!-- {[PDF](https://arxiv.org/pdf/1703.10316.pdf), [Code](https://github.com/zdh2292390/ParTrans-X)} -->
+{<a href='https://arxiv.org/pdf/1703.10316.pdf'>PDF</a>, <a href='https://github.com/zdh2292390/ParTrans-X'>Code</a>}<br>
+</div>
+## Journal Papers
+<div class='zdh'>
+<b>Link Prediction in Knowledge Graphs: A Hierarchy-Constrained Approach.</b>  <br>
+Li Manling, <b>Zhang Denghui</b>, Jia Yantao, Wang Yuanzhuo, Cheng Xueqi  <br>
+IEEE Transaction on Big Data Special Issue on "Knowledge Graphs: Techniques and Applications" (Submitted)  <br>
+<!-- {[PDF](https://zdh2292390.github.io/TBD-2017-02-0077_v3.pdf)} -->
+{<a href='https://zdh2292390.github.io/TBD-2017-02-0077_v3.pdf'>PDF</a>}<br>
+</div>
 ## Project
 <div class='section'>
 <h1 id='kb'>Knowledge Graph Embedding</h1>
@@ -24,17 +43,4 @@ My Work : <li>Implemented various machine learning and preprocess algorithms in 
 <li>Implemented GBDT algorithm in spark and optimized it to run faster than MLlib.</li>
 </ul>
 </div>
-
-## Publication
-
-## Conference Papers
-[Efficient Parallel Translating Embedding For Knowledge Graphs.](https://arxiv.org/pdf/1703.10316.pdf)  
-<b>Zhang Denghui</b>, Li Manling, Jia Yantao, Wang Yuanzhuo  
-The IEEE/WIC/ACM International Conference on Web Intelligence (WI) (Submitted)  
-[arXiv:1703.10316](https://arxiv.org/abs/1703.10316)
-
-## Journal Papers
-[Link Prediction in Knowledge Graphs: A Hierarchy-Constrained Approach.](https://github.com/zdh2292390/zdh2292390.github.io/blob/master/TBD-2017-02-0077_v3.pdf)  
-Li Manling, <b>Zhang Denghui</b>, Jia Yantao, Wang Yuanzhuo, Cheng Xueqi  
-IEEE Transaction on Big Data Special Issue on "Knowledge Graphs: Techniques and Applications" (Submitted)
 

@@ -11,12 +11,12 @@ description: ""
 
 2016 &emsp;[CCF BDCI Agricultural Products Predict Contest](http://www.datafountain.cn/#/competitions/244/intro)   &emsp;&emsp;&emsp;&emsp; <b>Runner-up</b>
 
-2014 &emsp;First prize in National Computer Game Championships (Connext Six)
+2014 &emsp; National Computer Game Championships (Connext Six)&emsp; <b>First prize</b>
 
-2013 &emsp;Second prize in National Internet Of Things Contest
+2013 &emsp; National Internet Of Things Contest &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>Second prize</b>
 
 ## Awards
 
-National Motivational Scholarships(Top 2%，2014)
+National Scholarships(Top 2%，2014)
 
 National Motivational Scholarships(Top5%，2013)

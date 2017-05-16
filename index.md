@@ -24,7 +24,8 @@ Master  <br>
 <div class='quiet'>
 No.6 Kexueyuan South Road Zhongguancun  <br>
 Haidian District, Beijing, China 100190  <br>
-Email: zhangdenghui@ict.ac.cn<br>
+Email: <a href="mailto:zhangdenghui@ict.ac.cn">zhangdenghui@ict.ac.cn</a><br>
+Tele: (+86)13269365613
 </div>
 
 <div class='section'>
@@ -39,7 +40,7 @@ Email: zhangdenghui@ict.ac.cn<br>
   Machine Learning, Representation Learning
 </li>
 <li>
-  Knowledge Graph Embedding, Parallel Computing</li>
+  Knowledge Graph, Parallel Computing</li>
 </ul>
 </div>
 

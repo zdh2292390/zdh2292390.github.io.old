@@ -1,0 +1,93 @@
+Configuration file: /Users/zhangdenghui/zdh2292390.github.com/_config.yml
+Configuration file: /Users/zhangdenghui/zdh2292390.github.com/_config.yml
+            Source: /Users/zhangdenghui/zdh2292390.github.com
+       Destination: /Users/zhangdenghui/zdh2292390.github.com/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.397 seconds.
+ Auto-regeneration: enabled for '/Users/zhangdenghui/zdh2292390.github.com'
+Configuration file: /Users/zhangdenghui/zdh2292390.github.com/_config.yml
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+Configuration file: /Users/zhangdenghui/zdh2292390.github.com/_config.yml
+Configuration file: /Users/zhangdenghui/zdh2292390.github.com/_config.yml
+            Source: /Users/zhangdenghui/zdh2292390.github.com
+       Destination: /Users/zhangdenghui/zdh2292390.github.com/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.145 seconds.
+ Auto-regeneration: enabled for '/Users/zhangdenghui/zdh2292390.github.com'
+Configuration file: /Users/zhangdenghui/zdh2292390.github.com/_config.yml
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+[2017-05-16 10:06:31] ERROR `/favicon.ico' not found.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:07:18 ...done in 0.322681 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:08:08 ...done in 0.225839 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:08:28 ...done in 0.244353 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:08:33 ...done in 0.112559 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:10:56 ...done in 0.248501 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:10:59 ...done in 0.131808 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:12:03 ...done in 0.241111 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:12:25 ...done in 0.175781 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:12:39 ...done in 0.221798 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:12:48 ...done in 0.104281 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:12:56 ...done in 0.113827 seconds.
+      Regenerating: 1 file(s) changed at 2017-05-16 10:12:57 ...done in 0.168559 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:14:22 ...done in 0.256 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:14:30 ...done in 0.132438 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:14:32 ...done in 0.161092 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:14:52 ...done in 0.226085 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:16:10 ...done in 0.21309 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:17:17 ...done in 0.248499 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:18:11 ...done in 0.235744 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:18:13 ...done in 0.129477 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:18:16 ...done in 0.160173 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:18:41 ...done in 0.174559 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:20:04 ...done in 0.162999 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:20:08 ...done in 0.129082 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:20:54 ...done in 0.115181 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:22:38 ...done in 0.275425 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:22:48 ...done in 0.187436 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:25:16 ...done in 0.219789 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:25:27 ...done in 0.23589 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:25:41 ...done in 0.164615 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:25:51 ...done in 0.104837 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:27:49 ...done in 0.264511 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:27:53 ...done in 0.115581 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:28:13 ...done in 0.106106 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:28:17 ...done in 0.155703 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:28:24 ...done in 0.110495 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:28:32 ...done in 0.187919 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:28:43 ...done in 0.165835 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:28:53 ...done in 0.169792 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:28:55 ...done in 0.10566 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:29:12 ...done in 0.159876 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:32:32 ...done in 0.287631 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:34:51 ...done in 0.252275 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:34:52 ...done in 0.117208 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:35:17 ...done in 0.261443 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:35:33 ...done in 0.234298 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:36:36 ...done in 0.261817 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:36:49 ...done in 0.161411 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:37:13 ...done in 0.19641 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:37:26 ...done in 0.117925 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:37:44 ...done in 0.150351 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:37:45 ...done in 0.145247 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:37:47 ...done in 0.178223 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:38:20 ...done in 0.150273 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:38:31 ...done in 0.159908 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:38:45 ...done in 0.154519 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:39:11 ...done in 0.142143 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:39:51 ...done in 0.217919 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:39:54 ...done in 0.118217 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:40:00 ...done in 0.100706 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:40:06 ...done in 0.158762 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:40:10 ...done in 0.186253 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:40:21 ...done in 0.239149 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:40:27 ...done in 0.12957 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:41:07 ...done in 0.168247 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:41:16 ...done in 0.162086 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:41:30 ...done in 0.166141 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:41:33 ...done in 0.147137 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:42:44 ...done in 0.235767 seconds.
+      Regenerating: 2 file(s) changed at 2017-05-16 10:43:01 ...done in 0.120513 seconds.

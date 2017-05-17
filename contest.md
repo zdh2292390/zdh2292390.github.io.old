@@ -16,6 +16,10 @@ description: ""
 
 ## Awards
 
+Chinese Academy of Science Excellent Student Award (2017)
+
+Chinese Academy of Science Scholarship (2015)
+
 National Scholarship(Top 2%, 2014)
 
 National Motivational Scholarship(Top5%, 2013)

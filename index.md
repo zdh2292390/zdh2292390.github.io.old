@@ -36,8 +36,8 @@ Phone: (+86)13269365613
 <div class='section'>
 <h1 id='research'>Research <br> Interests</h1>
 <ul>
-<li>Machine Learning, Representation Learning</li>
-<li>Knowledge Graph</li>
+<li>Machine Learning</li>
+<li>Knowledge Graph, Representation Learning</li>
 <li>Parallel Computing</li>
 </ul>
 </div>

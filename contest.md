@@ -8,7 +8,7 @@ description: ""
 ## Contests
 2016 &emsp;[CCF Agricultural Product Price Prediction Contest](http://www.datafountain.cn/#/competitions/244/intro)   &emsp;&emsp;&emsp;&emsp; <b>Rank: 2/547</b>
 
-2016&emsp; [AliBaba Commodity Supply Chain Prediction Contest](https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.uvYOch&raceId=231530)    &emsp;&emsp;  <b>Rank: 13/2807</b>  
+2016&emsp; [AliBaba Commodity Supply Chain Prediction Contest](https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.uvYOch&raceId=231530)    &emsp;&emsp;&ensp;  <b>Rank: 13/2807</b>  
 
 2014 &emsp;National Computer Game Championships (Connect Six)&emsp;&emsp; <b>First prize</b>
 

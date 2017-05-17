@@ -66,7 +66,7 @@ My work:
 
 <ul>
 <b>Commodity Demand Prediction Program</b><br>
-This project aims to predict the future sales of certain products in TaoBao, using the historical sales data and user behavior data. We ranked 12 in AliBaba Tianchi BigData Contest on CaiNiao Supply Chain Prediction among more than 2800 teams.<br>
+This project aims to predict the future sales of certain products in TaoBao, using the historical sales data and user behavior data. We ranked 13 in AliBaba Tianchi BigData Contest on CaiNiao Supply Chain Prediction among more than 2800 teams.<br>
 My work:
 <li>Implemented GBDT algorithm using Java in MapReduce framework to make it run in AliBaba’s bigdata platform ODPS.</li>
 <li>Designed the loss function by predicting a higher price for the data with higher cost of low prediction, and predicting a lower price for the data with higher cost of high predition, which lead to a great promotion in accuracy..</li>

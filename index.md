@@ -41,6 +41,13 @@ Phone: (+86)13269365613
 <li>Parallel Computing</li>
 </ul>
 </div>
+<div class='section'>
+<h1 id='research'>Programming skills</h1>
+<ul>
+<li>Proficiency in Java, C, C++.</li>
+<li>Intermediate Python, Scala.</li>
+</ul>
+</div>
 
 <!-- Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html) -->
 

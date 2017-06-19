@@ -11,7 +11,7 @@ description: ""
 <div class='zdh'>
 <b>Efficient Parallel Translating Embedding For Knowledge Graphs.</b>  <br>
 <b>Zhang Denghui</b>, Li Manling, Jia Yantao, Wang Yuanzhuo  <br>
-The IEEE/WIC/ACM International Conference on Web Intelligence (WI) (Submitted)  <br>
+The IEEE/WIC/ACM International Conference on Web Intelligence (WI) (Accepted)  <br>
 <!-- [arXiv:1703.10316](https://arxiv.org/abs/1703.10316)   -->
 <!-- {[PDF](https://arxiv.org/pdf/1703.10316.pdf), [Code](https://github.com/zdh2292390/ParTrans-X)} -->
 {<a href='https://arxiv.org/pdf/1703.10316.pdf'>PDF</a>, <a href='https://github.com/zdh2292390/ParTrans-X'>Code</a>}<br>
@@ -69,7 +69,7 @@ My work:
 This project aims to predict the future sales of certain products in TaoBao, using the historical sales data and user behavior data. We ranked 13 in AliBaba Tianchi BigData Contest on CaiNiao Supply Chain Prediction among more than 2800 teams.<br>
 My work:
 <li>Implemented GBDT algorithm using Java in MapReduce framework to make it run in AliBaba’s bigdata platform ODPS.</li>
-<li>Designed the loss function by predicting a higher price for the data with higher cost of low prediction, and predicting a lower price for the data with higher cost of high predition, which lead to a great promotion in accuracy..</li>
+<li>Designed the loss function by predicting a higher price for the data with higher cost of low prediction, and predicting a lower price for the data with higher cost of high predition, which lead to a great promotion in accuracy.</li>
 </ul>
 </div>
 

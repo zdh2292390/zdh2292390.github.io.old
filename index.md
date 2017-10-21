@@ -6,9 +6,9 @@ title: Denghui Zhang
 {% include JB/setup %}
 
 <div >
-<img class='inset right' title='Denghui Zhang' src='./images/zdh2.jpg' alt='Photo of zdh' width='165px' />
+<img class='inset right' title='Denghui Zhang' src='./images/zdh6.jpg' alt='Photo of zdh' width='165px' />
 </div>
-<div class='quiet'>
+<div class='zdh'>
 <!-- Bachelor<br>
 University of Science & Technology Beijing  <br><br> -->
 Master  <br>
@@ -21,23 +21,23 @@ Master  <br>
 <a href='http://www.ict.ac.cn/'>Institute of Computing Technology</a><br>
 <a href='http://www.cas.cn/'>Chinese Academy of Sciences</a><br>
 </div>
-<div class='quiet'>
+<div class='zdh'>
 No.6 Kexueyuan South Road Zhongguancun  <br>
 Haidian District, Beijing, China 100190  <br>
 Email: <a href="mailto:zhangdenghui@ict.ac.cn">zhangdenghui@ict.ac.cn</a><br>
-Phone: (+86)13269365613
+Phone: (+86)13269365613 <br>
 </div>
 
 <div class='section'>
  <h1 id='bio'>Bio</h1>
 <p font-size='1em'>
-  I am a Master student in the CAS Key Lab of Network Data Science and Technology of <a href='http://www.ict.ac.cn/'>Institute of Computing Technology</a>, <a href='http://www.cas.cn/'>Chinese Academy of Sciences</a>, China. <br>My advisers is Prof. <a href='http://www.bigdatalab.ac.cn/~junxu/'>Jun Xu</a>.<br> Prior to joining ICT, I received my bachelor&#8217;s degree in Communication Engineering from <a href='http://www.ustb.edu.cn/index.asp'>University of Science & Technology Beijing</a> in 2015.</p>
+  I am a Master student in the CAS Key Lab of Network Data Science and Technology of <a href='http://www.ict.ac.cn/'>Institute of Computing Technology</a>, <a href='http://www.cas.cn/'>Chinese Academy of Sciences</a>, China. <br>My adviser is Prof. <a href='http://www.bigdatalab.ac.cn/~junxu/'>Jun Xu</a>.<br> Prior to joining ICT, I received my bachelor&#8217;s degree in Communication Engineering from <a href='http://www.ustb.edu.cn/index.asp'>University of Science & Technology Beijing</a> in 2015.</p>
 </div>
 <div class='section'>
 <h1 id='research'>Research <br> Interests</h1>
 <ul>
 <li>Machine Learning</li>
-<li>Knowledge Graph, Representation Learning</li>
+<li>Natural Language Processing, Knowledge Graph</li>
 <li>Parallel Computing</li>
 </ul>
 </div>

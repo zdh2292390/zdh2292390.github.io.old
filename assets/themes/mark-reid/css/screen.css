@@ -118,8 +118,8 @@ sup { line-height: 1ex; }
 	padding: 2px;
 	margin: 0em 0.8em 0.8em 0.8em;
 }
-.right.inset { margin-right: 0 !important; }
-.left.inset { margin-left: 0 !important; }
+.right.inset { margin-right: 2.3em !important; }
+.left.inset { margin-left: 0em !important; }
 .quiet {
 	color: grey;
 	font-size: 0.875em;
@@ -197,11 +197,11 @@ ul.compact li a {
 /* @end */
 
 /* @group Header */
-#header, #header a { color: silver; }
+#header, #header a { color: black; text-shadow: #aaa 2px 2px 3px;}
 #header .hover { color: transparent; }
 #header:hover a { color: black; text-shadow: #aaa 2px 2px 3px;}
 #header:hover a:hover { text-decoration: none; }
-#header a:hover .hover { color: silver; }
+#header a:hover .hover { color: black; text-shadow: #aaa 2px 2px 3px;}
 #header {
 	position: relative;
 	font-variant: small-caps;
@@ -291,8 +291,8 @@ body#Kith #header a.kith
 	font-size: 100%;
 	line-height: 1.43em;
 	position: absolute;
-	width: 6em;
-	max-width: 6em;
+	width: 7.3em;
+	max-width: 7.3em;
 	margin-left: -7.5em;
 	font-weight: bold;
 	font-variant: small-caps;

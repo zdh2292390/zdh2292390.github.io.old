@@ -7,7 +7,7 @@ description: ""
 
 ## Path-Based Attention Neural Model for Fine-Grained Entity Typing
 
-<img class='inset right' title='PAN' src='./images/PAN.jpg' alt='The Architecture of PAN' width='270px' />
+<img class='inset right' title='PAN' src='./images/pan.jpg' alt='The Architecture of PAN' width='270px' />
 
 <div class='section'>
 <h1> Date </h1>

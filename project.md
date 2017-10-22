@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Research"
+title: "Projects"
 description: ""
 ---
 {% include JB/setup %}
 
-## Project
+<!-- ## Project -->
 <div class='section'>
 <h1 id='2017'>01/2017-04/2017</h1>
 <ul>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Publication - Paper"
+title: "Publication"
 description: ""
 ---
 {% include JB/setup %}
@@ -23,11 +23,9 @@ description: ""
 </ul>
 <h1>My Work</h1> 
 <ul>
-<li> Came up with the idea to divide the hierarchical structures into two categories, i.e., single-step hierarchical structures and multi-step hierarchical structures.</li>
-<li> Proposed multi-step specific margin, and the link prediction method based on detecting single-step and multi-step hierarchical structures, called <b>hTransM</b>. It can adaptively determine the optimal margin to separate positive and negative triples. </li>
-<li> Proved the convergence of hTransM by demonstrating its uniform stability and provide the upper bound of the error of the proposed model.</li>
-<li> Experimented hTransM over 3 datasets of 2 sub-tasks, i.e., entity prediction task and relation prediction task, which demonstated that hTransM can achieve better prediction performance. </li>
-<li> Studyed the variation of the optimal margin value along with the optimization process, and compared with the methods withnot considering hierarchical information. It validated the superiority of hierarchy-constrained margin. </li>
-<li> The paper was submitted to IEEE Transaction on Big Data (Lead Author) and under review now. </li>
+<li> Participated in dividing the hierarchical structures into two categories, i.e., single-step hierarchical structures and multi-step hierarchical structures.</li>
+<li> Participated in proposing a link prediction method based on knowledge graph embedding, called <b>hTransM</b>, which can separate negative and positive examples by using single-step and multi-step specific margin. </li>
+<li> Conducted the experiment on three datasets to demonstrate the effectiveness of hTransM.</li>
+<li> The paper was submitted to IEEE Transaction on Big Data (Second Author) and under review now. </li>
 </ul>
 </div>

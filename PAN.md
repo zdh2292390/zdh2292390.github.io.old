@@ -29,7 +29,7 @@ Proposed an end-to-end typing model, called the Path-based Attention Neural mode
 <ul>
 <li> Came up with the idea to use attention model to reduce noise in the training data, and designed the architecture of PAN. </li>
 <li> Implemented baseline (Shimaoka et al. 2016) by PyTorch, and then conducted experiments on two datasets to demonstrate the superiority of PAN in reducing noise. </li>
-<li> This paper was submitted as a poster to AAAI 2018. </li>
+<li> This paper was accepted as a poster in AAAI 2018. </li>
 </ul>
 </div>
 

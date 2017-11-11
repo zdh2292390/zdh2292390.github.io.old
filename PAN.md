@@ -14,7 +14,7 @@ description: ""
 <ul>
 06/2017 - 09/2017
 </ul>
-<h1>Authors:</h1> <ul><b>Denghui Zhang</b>, Pengshan Cai, Yantao Jia, Manling Li, Yuanzhuo Wang</ul>
+<h1>Authors:</h1> <ul><b>Denghui Zhang</b>, Manling Li, Pengshan Cai, Yantao Jia, Yuanzhuo Wang</ul>
 <h1> Paper </h1>
 <ul>
 [<a href='docs/PAN.pdf'>PDF</a>]

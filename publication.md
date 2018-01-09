@@ -9,7 +9,7 @@ description: ""
 
 <div class='zdh'>
 <b>Path-Based Attention Neural Model for Fine-Grained Entity Typing</b>  <br>
-<b>Denghui Zhang</b>, Manling Li, Pengshan Cai, Yantao Jia, Yuanzhuo Wang <br>
+<b>Denghui Zhang</b>, Manling Li, Pengshan Cai, Yantao Jia, Yuanzhuo Wang, Xueqi Cheng <br>
 The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018) (poster)  <br>
 {<a href='docs/PAN.pdf'>PDF</a>, <a href='PAN.html'>Detail</a>}
 <br>

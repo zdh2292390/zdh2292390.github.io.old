@@ -31,10 +31,10 @@ Phone: (+1)8623158748 <br>
 <div class='section'>
  <h1 id='bio'>Education</h1>
 <p font-size='1em'>
-  <li><b>Ph.D.</b> in Machine Learning. Rutgers, The State University of New Jersey. 2018-2023</li><br>
+  <li><b>Ph.D.</b> in Machine Learning. Rutgers, The State University of New Jersey. 2018-2023</li>
   Advisor: Prof. <a href='http://datamining.rutgers.edu/'>Hui Xiong</a>
-  <li><b>M.S.</b> in Computer Science. Institute of Computing Technology, Chinese Academy of Sciences. 2015-2018</li><br>
-  Advisor: <a href='http://www.bigdatalab.ac.cn/~junxu/'>Prof. Jun Xu
+  <li><b>M.S.</b> in Computer Science. Institute of Computing Technology, Chinese Academy of Sciences. 2015-2018</li>
+  Advisor: <a href='http://www.bigdatalab.ac.cn/~junxu/'>Prof. Jun Xu</a>
   <li><b>B.E.</b> in Comunication Engineering. University of Science & Technology Beijing. 2011-2015</li>
 
   <!-- I am a second year Ph.D. student in Rutgers University, my advisor is <a href='http://datamining.rutgers.edu/'>Prof. Hui Xiong</a>. <br> Prior to joining Rutgers, I received my master&#8217;s degree in Computer Science from <a href='http://www.ustb.edu.cn/index.asp'>Institute of Computing Technology, Chinese Academy of Sciences</a> in 2018.</p>  -->

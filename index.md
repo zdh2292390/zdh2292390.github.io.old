@@ -7,7 +7,7 @@ title: Denghui Zhang
 
 <div >
 <!-- <img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpeg' alt='Photo of zdh' width='165px' /> -->
-<img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpeg' alt='Photo of zdh' width='140px' />
+<img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpeg' alt='Photo of zdh' width='150px' />
 </div>
 <div class='zdh'>
 <!-- Bachelor<br>
@@ -32,13 +32,13 @@ Phone: (+1)8623158748 <br>
 <div class='section'>
  <h1 id='bio'>Education</h1>
 <p font-size='1em'>
-  <li><b>Ph.D.</b> in Machine Learning. 2018-2023</li>
+  <b>Ph.D.</b> in Machine Learning. 2018-2023<br>
   Rutgers, The State University of New Jersey.<br>
-  Advisor: Prof. <a href='http://datamining.rutgers.edu/'>Hui Xiong</a>
-  <li><b>M.S.</b> in Computer Science. 2015-2018</li>
+  Advisor: Prof. <a href='http://datamining.rutgers.edu/'>Hui Xiong</a><br><br>
+  <b>M.S.</b> in Computer Science. 2015-2018<br>
   Institute of Computing Technology, Chinese Academy of Sciences.<br>
-  Advisor: <a href='http://www.bigdatalab.ac.cn/~junxu/'>Prof. Jun Xu</a>
-  <li><b>B.E.</b> in Comunication Engineering. 2011-2015</li>
+  Advisor: <a href='http://www.bigdatalab.ac.cn/~junxu/'>Prof. Jun Xu</a><br><br>
+  <b>B.E.</b> in Comunication Engineering. 2011-2015<br>
   University of Science & Technology Beijing.
   <!-- I am a second year Ph.D. student in Rutgers University, my advisor is <a href='http://datamining.rutgers.edu/'>Prof. Hui Xiong</a>. <br> Prior to joining Rutgers, I received my master&#8217;s degree in Computer Science from <a href='http://www.ustb.edu.cn/index.asp'>Institute of Computing Technology, Chinese Academy of Sciences</a> in 2018.</p>  -->
 

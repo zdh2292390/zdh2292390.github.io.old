@@ -7,7 +7,7 @@ title: Denghui Zhang
 
 <div >
 <!-- <img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpeg' alt='Photo of zdh' width='165px' /> -->
-<img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpeg' alt='Photo of zdh' width='150px' />
+<img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpeg' alt='Photo of zdh' width='155px' />
 </div>
 <div class='zdh'>
 <!-- Bachelor<br>

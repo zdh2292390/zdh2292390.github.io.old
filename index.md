@@ -7,7 +7,7 @@ title: Denghui Zhang
 
 <div >
 <!-- <img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpeg' alt='Photo of zdh' width='165px' /> -->
-<img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpeg' alt='Photo of zdh' width='130px' />
+<img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpeg' alt='Photo of zdh' width='140px' />
 </div>
 <div class='zdh'>
 <!-- Bachelor<br>
@@ -33,10 +33,10 @@ Phone: (+1)8623158748 <br>
  <h1 id='bio'>Education</h1>
 <p font-size='1em'>
   <li><b>Ph.D.</b> in Machine Learning. 2018-2023</li>
-  Rutgers, The State University of New Jersey.
+  Rutgers, The State University of New Jersey.<br>
   Advisor: Prof. <a href='http://datamining.rutgers.edu/'>Hui Xiong</a>
   <li><b>M.S.</b> in Computer Science. 2015-2018</li>
-  Institute of Computing Technology, Chinese Academy of Sciences.
+  Institute of Computing Technology, Chinese Academy of Sciences.<br>
   Advisor: <a href='http://www.bigdatalab.ac.cn/~junxu/'>Prof. Jun Xu</a>
   <li><b>B.E.</b> in Comunication Engineering. 2011-2015</li>
   University of Science & Technology Beijing.

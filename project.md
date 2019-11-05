@@ -7,6 +7,22 @@ description: ""
 
 <!-- ## Project -->
 <div class='section'>
+<h1 id='2018'>06/2018-12/2018</h1>
+<ul>
+
+<b>Job2Vec: Job Title Benchmarking with Collective Multi-View Representation Learning</b><br>
+Advisor: Hui Xiong, Hengshu Zhu (collaborate with Baidu Talent Intelligence Center.)<br>
+<!-- This project aims to construct a knowledge graph for videos, including movies, series, etc. The knowledge graph can be enriched automatically from different data source, and supports a plenty of applications such like relation extraction, tag inference.<br> -->
+Proposed a data-driven approach to match job titles with similar expertise levels across various companies.
+Built Job Graph based on collected online career trajectories.
+<li> Eliminating redundency of Job Graph by filtering noisy words.</li>
+<li> Proposed a multi-view representation learning method, named Job2Vec, and performed link prediction using the embeddings to enrich Job Graph, extract job title benchmarking insights from refined Job Graph using voting to match.</li>
+<li> Conducted extensive experiments to validate the effectiveness of Job2Vec.</li>
+
+</ul>
+</div>
+
+<div class='section'>
 <h1 id='2017'>01/2017-04/2017</h1>
 <ul>
 
@@ -16,7 +32,6 @@ This project aims to construct a knowledge graph for videos, including movies, s
 My work:
 <li>Implemented the parallel version of key knowledge graph construction modules,  including ontology alignment algorithm, relation extraction algorithm and tag inference algorithm, which are based on knowledge graph embedding.</li>
 <li>Shorted the whole updating procedure to 5-6 hours from 3 days with 60k video entities, which was regarded as one of the main innovations by Huawei Inc.</li>
-
 
 </ul>
 </div>

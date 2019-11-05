@@ -6,46 +6,48 @@ title: Denghui Zhang
 {% include JB/setup %}
 
 <div >
-<img class='inset right' title='Denghui Zhang' src='./images/zdh6.jpg' alt='Photo of zdh' width='165px' />
+<img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpg' alt='Photo of zdh' width='165px' />
 </div>
 <div class='zdh'>
 <!-- Bachelor<br>
 University of Science & Technology Beijing  <br><br> -->
-Master  <br>
+Ph.D. Candidate <br>
 </div>
 <!-- [CAS Key Lab of Network Data Science and Technology](http://www.bigdatalab.ac.cn/lab/lab/english)  
 [Institute of Computing Technology](http://www.ict.ac.cn/)  
 [Chinese Academy of Sciences](http://www.cas.cn/) -->  
 <div class='zdh'>
-<a href='http://www.bigdatalab.ac.cn/lab/lab/english'>CAS Key Lab of Network Data Science and Technology</a><br>
-<a href='http://www.ict.ac.cn/'>Institute of Computing Technology</a><br>
-<a href='http://www.cas.cn/'>Chinese Academy of Sciences</a><br>
+<a href='http://datamining.rutgers.edu/CDMBA/'>Rutgers Data Mining and Business Analytics</a><br>
+<a href='https://www.rutgers.edu/'>Rutgers University</a><br>
+<!-- <a href='http://www.cas.cn/'>Chinese Academy of Sciences</a><br> -->
 </div>
 <div class='zdh'>
-No.6 Kexueyuan South Road Zhongguancun  <br>
-Haidian District, Beijing, China 100190  <br>
-Email: <a href="mailto:zhangdenghui@ict.ac.cn">zhangdenghui@ict.ac.cn</a><br>
-Phone: (+86)13269365613 <br>
+<!-- No.6 Kexueyuan South Road Zhongguancun  <br> -->
+<!-- Haidian District, Beijing, China 100190  <br> -->
+Email: <a href="mailto:zhangdenghui@ict.ac.cn">x.y@rutgers.edu where x=denghui, y=zhang</a><br>
+Phone: (+1)8623158748 <br>
 </div>
 
 <div class='section'>
- <h1 id='bio'>Bio</h1>
+ <h1 id='bio'>Education</h1>
 <p font-size='1em'>
-  I am a Master student in the CAS Key Lab of Network Data Science and Technology of <a href='http://www.ict.ac.cn/'>Institute of Computing Technology</a>, <a href='http://www.cas.cn/'>Chinese Academy of Sciences</a>, China. <br>My adviser is Prof. <a href='http://www.bigdatalab.ac.cn/~junxu/'>Jun Xu</a>.<br> Prior to joining ICT, I received my bachelor&#8217;s degree in Communication Engineering from <a href='http://www.ustb.edu.cn/index.asp'>University of Science & Technology Beijing</a> in 2015.</p>
+  I am a second year Ph.D. student in Rutgers University, my advisor is <a href='http://datamining.rutgers.edu/'>Prof. Hui Xiong</a>. <br> Prior to joining Rutgers, I received my master&#8217;s degree in Computer Science from <a href='http://www.ustb.edu.cn/index.asp'>Institute of Computing Technology, Chinese Academy of Sciences</a> in 2018.</p> -->
+  <!-- I am a Master student in the CAS Key Lab of Network Data Science and Technology of <a href='http://www.ict.ac.cn/'>Institute of Computing Technology</a>, <a href='http://www.cas.cn/'>Chinese Academy of Sciences</a>, China. <br>My adviser is Prof. <a href='http://www.bigdatalab.ac.cn/~junxu/'>Jun Xu</a>.<br> Prior to joining ICT, I received my bachelor&#8217;s degree in Communication Engineering from <a href='http://www.ustb.edu.cn/index.asp'>University of Science & Technology Beijing</a> in 2015.</p> -->
 </div>
 <div class='section'>
 <h1 id='research'>Research <br> Interests</h1>
 <ul>
-<li>Machine Learning</li>
-<li>Natural Language Processing, Knowledge Graph</li>
-<li>Parallel Computing</li>
+<li>Machine Learning, Data Mining</li>
+<li>Natural Language Processing, Knowledge Graph, Representation Learning</li>
+<li>Applications: Talent Intelligence, Spatiotemporal Prediction</li>
+<!-- <li>Parallel Computing</li> -->
 </ul>
 </div>
 <div class='section'>
 <h1 id='research'>Programming skills</h1>
 <ul>
-<li>Proficiency in Java, C, C++.</li>
-<li>Intermediate Python, Scala.</li>
+<li>Python, Java, C, C++, Scala.</li>
+<!-- <li>Intermediate , .</li> -->
 </ul>
 </div>
 

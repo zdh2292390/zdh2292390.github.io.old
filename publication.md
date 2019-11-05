@@ -10,7 +10,7 @@ description: ""
 <b>Job2Vec: Job Title Benchmarking with Collective Multi-View Representation Learning</b>  <br>
 <b>Denghui Zhang</b>, Junming Liu, Hengshu Zhu, Yanchi Liu, Lichen Wang, Pengyang Wang, Hui Xiong <br>
 The 28th ACM International Conference on Information and Knowledge Management (CIKM 2019) (regular paper)  <br>
-{<a href='docs/CIKM19.pdf'>PDF</a>, <a href='job2vec_slides.pdf'>slides</a>}
+{<a href='docs/CIKM19.pdf'>PDF</a>, <a href='docs/job2vec_slides.pdf'>slides</a>}
 <br>
 <br>
 <b>Path-Based Attention Neural Model for Fine-Grained Entity Typing</b>  <br>

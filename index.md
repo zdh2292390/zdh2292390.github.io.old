@@ -6,7 +6,7 @@ title: Denghui Zhang
 {% include JB/setup %}
 
 <div >
-<img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpg' alt='Photo of zdh' width='165px' />
+<img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpeg' alt='Photo of zdh' width='165px' />
 </div>
 <div class='zdh'>
 <!-- Bachelor<br>
@@ -24,14 +24,21 @@ Ph.D. Candidate <br>
 <div class='zdh'>
 <!-- No.6 Kexueyuan South Road Zhongguancun  <br> -->
 <!-- Haidian District, Beijing, China 100190  <br> -->
-Email: <a href="mailto:zhangdenghui@ict.ac.cn">x.y@rutgers.edu where x=denghui, y=zhang</a><br>
+Email: <a href="mailto:denghui.zhang@rutgers.edu">x.y@rutgers.edu</a> where x=denghui, y=zhang<br>
 Phone: (+1)8623158748 <br>
 </div>
 
 <div class='section'>
  <h1 id='bio'>Education</h1>
 <p font-size='1em'>
-  I am a second year Ph.D. student in Rutgers University, my advisor is <a href='http://datamining.rutgers.edu/'>Prof. Hui Xiong</a>. <br> Prior to joining Rutgers, I received my master&#8217;s degree in Computer Science from <a href='http://www.ustb.edu.cn/index.asp'>Institute of Computing Technology, Chinese Academy of Sciences</a> in 2018.</p> -->
+  <li><b>Ph.D.</b> in Machine Learning. Rutgers, The State University of New Jersey. 2018-2023</li><br>
+  Advisor: Prof. <a href='http://datamining.rutgers.edu/'>Hui Xiong</a>
+  <li><b>M.S.</b> in Computer Science. Institute of Computing Technology, Chinese Academy of Sciences. 2015-2018</li><br>
+  Advisor: <a href='http://www.bigdatalab.ac.cn/~junxu/'>Prof. Jun Xu
+  <li><b>B.E.</b> in Comunication Engineering. University of Science & Technology Beijing. 2011-2015</li>
+
+  <!-- I am a second year Ph.D. student in Rutgers University, my advisor is <a href='http://datamining.rutgers.edu/'>Prof. Hui Xiong</a>. <br> Prior to joining Rutgers, I received my master&#8217;s degree in Computer Science from <a href='http://www.ustb.edu.cn/index.asp'>Institute of Computing Technology, Chinese Academy of Sciences</a> in 2018.</p>  -->
+
   <!-- I am a Master student in the CAS Key Lab of Network Data Science and Technology of <a href='http://www.ict.ac.cn/'>Institute of Computing Technology</a>, <a href='http://www.cas.cn/'>Chinese Academy of Sciences</a>, China. <br>My adviser is Prof. <a href='http://www.bigdatalab.ac.cn/~junxu/'>Jun Xu</a>.<br> Prior to joining ICT, I received my bachelor&#8217;s degree in Communication Engineering from <a href='http://www.ustb.edu.cn/index.asp'>University of Science & Technology Beijing</a> in 2015.</p> -->
 </div>
 <div class='section'>
@@ -46,8 +53,8 @@ Phone: (+1)8623158748 <br>
 <div class='section'>
 <h1 id='research'>Programming skills</h1>
 <ul>
-<li>Python, Java, C, C++, Scala.</li>
-<!-- <li>Intermediate , .</li> -->
+<li>Language: Python, Java, C, C++, Scala.</li>
+<li>Tools frequently use: Pytorch, Tensorflow, Keras, Spark, Sklearn, Pandas.</li>
 </ul>
 </div>
 

@@ -6,7 +6,8 @@ title: Denghui Zhang
 {% include JB/setup %}
 
 <div >
-<img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpeg' alt='Photo of zdh' width='165px' />
+<!-- <img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpeg' alt='Photo of zdh' width='165px' /> -->
+<img class='inset right' title='Denghui Zhang' src='./images/zdh7.jpeg' alt='Photo of zdh' width='130px' />
 </div>
 <div class='zdh'>
 <!-- Bachelor<br>

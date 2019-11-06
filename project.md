@@ -11,7 +11,7 @@ description: ""
 <ul>
 
 <b>Job2Vec: Job Title Benchmarking with Collective Multi-View Representation Learning</b><br>
-Advisor: Hui Xiong, Hengshu Zhu (collaborate with Baidu Talent Intelligence Center.)<br>
+Advisor: Hui Xiong, <a href = 'http://www.zhuhengshu.com/'>Hengshu Zhu</a> (collaborate with Baidu Talent Intelligence Center.)<br>
 <!-- This project aims to construct a knowledge graph for videos, including movies, series, etc. The knowledge graph can be enriched automatically from different data source, and supports a plenty of applications such like relation extraction, tag inference.<br> -->
 Proposed a data-driven approach to match job titles with similar expertise levels across various companies.
 Built Job Graph based on collected online career trajectories.

@@ -62,6 +62,13 @@ Phone: (+1)8623158748 <br>
 </ul>
 </div>
 
+<div class='section'>
+<h1 id='research'>Readings</h1>
+<ul>
+<img class='inset right' title='Denghui Zhang' src='./images/worldview.jpg' alt='' width='40px' />
+</ul>
+</div>
+
 <!-- Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html) -->
 
 <!-- Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)

@@ -65,7 +65,7 @@ Phone: (+1)8623158748 <br>
   <b>Talent Intelligence Center, Baidu, Inc.</b><br>
    Research Intern. May 2018- Aug. 2018<br>
   Supervisor: Dr. <a href='http://www.zhuhengshu.com/'>Hengshu Zhu</a><br>
-  Topic: <b>Job title benchmarking with multi-view representation learning</b><br><br>
+  Topic: <b>Job title benchmarking with multi-view representation learning</b>
 </ul>
 </div>
 
@@ -80,7 +80,7 @@ Phone: (+1)8623158748 <br>
 <div class='section'>
 <h1 id='research'>Readings</h1>
 <ul>
-<img class='inset auto' title='Denghui Zhang' src='./images/worldview.jpg' alt='' width='40px' />
+<img class='inset auto' title='Denghui Zhang' href='https://www.amazon.com/Worldviews-Introduction-History-Philosophy-Science/dp/1119118891/ref=sr_1_3' src='./images/worldview.jpg' alt='' width='60px' />
 </ul>
 </div>
 

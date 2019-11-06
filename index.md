@@ -80,7 +80,7 @@ Phone: (+1)8623158748 <br>
 <div class='section'>
 <h1 id='research'>Readings</h1>
 <ul>
-<img class='inset auto' title='Denghui Zhang' href='https://www.amazon.com/Worldviews-Introduction-History-Philosophy-Science/dp/1119118891/ref=sr_1_3' src='./images/worldview.jpg' alt='' width='60px' />
+<a href='https://www.amazon.com/Worldviews-Introduction-History-Philosophy-Science/dp/1119118891/ref=sr_1_3'><img class='inset auto' title='Denghui Zhang' src='./images/worldview.jpg' alt='' width='60px' /> </a>
 </ul>
 </div>
 

@@ -81,9 +81,14 @@ Phone: (+1)8623158748 <br>
 <h1 id='research'>Readings</h1>
 <ul>
 <a href='https://www.amazon.com/Worldviews-Introduction-History-Philosophy-Science/dp/1119118891/ref=sr_1_3'><img class='inset auto' title='Denghui Zhang' src='./images/worldview.jpg' alt='' width='60px' /> </a>
+<a href='https://www.amazon.com/Worldviews-Introduction-History-Philosophy-Science/dp/1119118891/ref=sr_1_3'><img class='inset auto' title='Denghui Zhang' src='./images/worldview.jpg' alt='' width='60px' /> </a>
 </ul>
 </div>
 
+<footer>
+  <p>"A person who never made a mistake never tried anything new."</p>
+  <!-- <p>"Faulure isn't fatal, but failure to change might be."</p> -->
+</footer>
 <!-- Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html) -->
 
 <!-- Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)

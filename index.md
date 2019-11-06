@@ -54,6 +54,21 @@ Phone: (+1)8623158748 <br>
 <!-- <li>Parallel Computing</li> -->
 </ul>
 </div>
+
+<div class='section'>
+<h1 id='research'>Experiences</h1>
+<ul>
+  <b>Data Science & Systems Research Department, NEC Laboratories America, Inc.</b><br>
+   Research Intern. May 2019- Aug. 2019<br>
+  Supervisor: Dr. <a href='http://www.eden.rutgers.edu/~yanchi/'>Yanchi Liu</a><br>
+  Topic: <b>Spatiotemporal neural network for traffic volume prediction</b><br><br>
+  <b>Talent Intelligence Center, Baidu, Inc.</b><br>
+   Research Intern. May 2018- Aug. 2018<br>
+  Supervisor: Dr. <a href='http://www.zhuhengshu.com/'>Hengshu Zhu</a><br>
+  Topic: <b>Job title benchmarking with multi-view representation learning</b><br><br>
+</ul>
+</div>
+
 <div class='section'>
 <h1 id='research'>Programming skills</h1>
 <ul>
@@ -65,7 +80,7 @@ Phone: (+1)8623158748 <br>
 <div class='section'>
 <h1 id='research'>Readings</h1>
 <ul>
-<img class='inset right' title='Denghui Zhang' src='./images/worldview.jpg' alt='' width='40px' />
+<img class='inset auto' title='Denghui Zhang' src='./images/worldview.jpg' alt='' width='40px' />
 </ul>
 </div>
 

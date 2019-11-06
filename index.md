@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Denghui Zhang
+title: Journey to a Ph.D.
 <!-- tagline: Supporting tagline -->
 ---
 {% include JB/setup %}

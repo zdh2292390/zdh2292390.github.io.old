@@ -34,7 +34,7 @@ Phone: (+1)862-315-8748 <br>
 <p font-size='1em'>
   <b>Ph.D.</b> in Machine Learning. 2018-2023<br>
   Rutgers, The State University of New Jersey.<br>
-  Advisor: Prof. <a href='http://datamining.rutgers.edu/'>Hui Xiong</a><br><br>
+  Advisor: Prof. <a href='https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en'>Hui Xiong</a><br><br>
   <b>M.S.</b> in Computer Science. 2015-2018<br>
   Institute of Computing Technology, Chinese Academy of Sciences.<br>
   Advisor: <a href='http://www.bigdatalab.ac.cn/~junxu/'>Prof. Jun Xu</a><br><br>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Journey to a Ph.D.
+title: Journey to Ph.D.
 <!-- tagline: Supporting tagline -->
 ---
 {% include JB/setup %}

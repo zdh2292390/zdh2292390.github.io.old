@@ -26,7 +26,7 @@ Ph.D. Candidate <br>
 <!-- No.6 Kexueyuan South Road Zhongguancun  <br> -->
 <!-- Haidian District, Beijing, China 100190  <br> -->
 Email: <a href="mailto:denghui.zhang@rutgers.edu">x.y@rutgers.edu</a> where x=denghui, y=zhang<br>
-Phone: (+1)8623158748 <br>
+Phone: (+1)862-315-8748 <br>
 </div>
 
 <div class='section'>
@@ -86,8 +86,10 @@ Phone: (+1)8623158748 <br>
 </div>
 
 <footer>
-  <p style="color:grey;font-size:12px;">"A person who never made a mistake never tried anything new."</p>
+  <!-- <p style="color:grey;font-size:12px;">"A person who never made a mistake never tried anything new."</p> -->
+  <p style="color:grey;font-size:14px;">"Success consists of going from failure to failure without loss of enthusiasm."</p>
   <!-- <p>"Faulure isn't fatal, but failure to change might be."</p> -->
+
 </footer>
 <!-- Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html) -->
 

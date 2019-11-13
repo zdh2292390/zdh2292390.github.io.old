@@ -48,9 +48,9 @@ Phone: (+1)862-315-8748 <br>
 <div class='section'>
 <h1 id='research'>Research <br> Interests</h1>
 <ul>
-<li>Machine Learning, Data Mining</li>
-<li>Natural Language Processing, Knowledge Graph, Representation Learning</li>
-<li>Applications: Talent Intelligence, Spatiotemporal Prediction</li>
+<li><b>Machine Learning</b>: Semi-supervised learning</li>
+<li><b>Graph Mining</b>: Knowledge Graph, Representation Learning</li>
+<li><b>Applications</b>: Talent Intelligence, Spatiotemporal Prediction</li>
 <!-- <li>Parallel Computing</li> -->
 </ul>
 </div>

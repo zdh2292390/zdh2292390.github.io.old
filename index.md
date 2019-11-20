@@ -87,7 +87,9 @@ Phone: (+1)862-315-8748 <br>
 
 <footer>
   <!-- <p style="color:grey;font-size:12px;">"A person who never made a mistake never tried anything new."</p> -->
-  <p style="color:grey;font-size:14px;">"Success consists of going from failure to failure without loss of enthusiasm."</p>
+  <!-- <p style="color:grey;font-size:14px;">"Success consists of going from failure to failure without loss of enthusiasm."</p> -->
+  <p style="color:grey;font-size:14px;">"The beauty of research lies on its uncertainty, so does its horror."</p>
+
   <!-- <p>"Faulure isn't fatal, but failure to change might be."</p> -->
 
 </footer>

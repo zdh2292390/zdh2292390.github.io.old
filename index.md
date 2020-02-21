@@ -80,7 +80,8 @@ Phone: (+1)862-315-8748 <br>
 <div class='section'>
 <h1 id='research'>External Reviewer</h1>
 <ul>
-<li>CIKM2019, WSDM2020, TKDE.</li>
+<li>Conference: CIKM-2019, WSDM-2020.</li>
+<li>Journal: TKDE.</li>
 <!-- <li>Tools frequently use: Pytorch, Tensorflow, Keras, Spark, Sklearn, Pandas.</li> -->
 </ul>
 </div>
